@@ -1,2 +1,2 @@
 # Spice-Idle-Classic
-spice harvesting in the olden days
+v1.6.5 of Spice Idle, forever preserved here, just because
